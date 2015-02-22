@@ -1,4 +1,4 @@
-# DATA Science Assignment #1
+# Data Science Assignment #1
 
 Is news a downer? 'Hard' news is often thought to be about 'bad' things in the world. We will test this hypothesis using data from Twitter. 
 
