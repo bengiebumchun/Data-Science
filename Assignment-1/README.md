@@ -3,7 +3,7 @@
 Is news a downer? 'Hard' news is often thought to be about 'bad' things in the world. We will test this hypothesis using data from Twitter. 
 
 1. Extract Tweets from news sources:  
-Using the Twitter API, I downloaded 6000 tweets from 10 media sources.  I selected the media sources above so that it would cover country-wide perspective as well as global perspectives.  News tweets from each new source twitter handle was aggregated into one JSON file, which was then parsed into words so that I can run the sentiment analysis on them.  Here are the list of media sources that I used:
+Using the Twitter API, I downloaded 6000 tweets from 10 media sources.  I selected the media sources so that it would cover country-wide perspective as well as global perspectives.  News tweets from each new source twitter handle was aggregated into one JSON file, which was then parsed into words so that I can run the sentiment analysis on them.  Here are the list of media sources that I used:
     1. WASHINGTON POST
     2. NYTIMES
     3. WALL STREET JOURNAL
